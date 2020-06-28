@@ -1,0 +1,161 @@
+{
+  "clubs": [
+    {
+      "key": "astonvilla",
+      "name": "Aston Villa FC",
+      "id": "AVL"
+    },
+    {
+      "key": "liverpool",
+      "name": "Liverpool FC",
+      "id": "LIV"
+    },
+    {
+      "key": "mancity",
+      "name": "Manchester City FC",
+      "id": "MCI"
+    },
+    {
+      "key": "chelsea",
+      "name": "Chelsea FC",
+      "id": "CHE"
+    },
+    {
+      "key": "arsenal",
+      "name": "Arsenal FC",
+      "id": "ARS"
+    },
+    {
+      "key": "manutd",
+      "name": "Manchester United FC",
+      "id": "MUN"
+    },
+    {
+      "key": "newcastle",
+      "name": "Newcastle United FC",
+      "id": "NEW"
+    },
+    {
+      "key": "westbrom",
+      "name": "West Bromwich Albion FC",
+      "id": "WBA"
+    },
+    {
+      "name": "15919new",
+      "id": "061802020062258IST",
+      "key": "20133new"
+    },
+    {
+      "name": "99725new",
+      "id": "061802020062640IST",
+      "key": "5915new"
+    },
+    {
+      "name": "89274new",
+      "id": "061802020062753IST",
+      "key": "86548new"
+    },
+    {
+      "name": "47746new",
+      "id": "061802020065957IST",
+      "key": "15992new"
+    },
+    {
+      "name": "91976new",
+      "id": "061802020070236IST",
+      "key": "98167new"
+    },
+    {
+      "name": "92088new",
+      "id": "061802020070840IST",
+      "key": "24386new"
+    },
+    {
+      "name": "66372new",
+      "id": "061802020072131IST",
+      "key": "88325new"
+    },
+    {
+      "name": "63442new",
+      "id": "061802020072259IST",
+      "key": "52272new"
+    },
+    {
+      "name": "11692new",
+      "id": "061802020072537IST",
+      "key": "51069new"
+    },
+    {
+      "name": "14294new",
+      "id": "061802020072617IST",
+      "key": "78139new"
+    },
+    {
+      "name": "42958new",
+      "id": "061802020072743IST",
+      "key": "92918new"
+    },
+    {
+      "name": "48892new",
+      "id": "061802020073539IST",
+      "key": "88260new"
+    },
+    {
+      "name": "996new",
+      "id": "061802020073618IST",
+      "key": "9018new"
+    },
+    {
+      "name": "36255new",
+      "id": "061802020073726IST",
+      "key": "41135new"
+    },
+    {
+      "name": "2657new",
+      "id": "061802020074016IST",
+      "key": "10735new"
+    },
+    {
+      "name": "77634new",
+      "id": "061802020075335IST",
+      "key": "19292new"
+    },
+    {
+      "name": "811new",
+      "id": "061802020075410IST",
+      "key": "87961new"
+    },
+    {
+      "name": "27586new",
+      "id": "061802020075443IST",
+      "key": "66301new"
+    },
+    {
+      "name": "3694new",
+      "id": "061802020081251IST",
+      "key": "48809new"
+    },
+    {
+      "name": "10428new",
+      "id": "061802020090841IST",
+      "key": "60106new"
+    }
+  ],
+  "players": [
+    {
+      "key": "astonvilla",
+      "name": "Aston Villa FC",
+      "id": "AVL"
+    },
+    {
+      "key": "Gourab",
+      "identity": "Gourab FC",
+      "id": "GOU"
+    },
+    {
+      "key": "Marcello",
+      "identity": "Gourab FC",
+      "id": "Mar"
+    }
+  ]
+}
